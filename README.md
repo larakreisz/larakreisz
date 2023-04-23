@@ -5,19 +5,19 @@
 
 ### See my apps on
 
-<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="15"/>&nbsp; Apple App Store: </div>
+<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="20"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
    <ul>
-    <li>Fashion Lookbook (2022/2023, Flutter)</li>
-    <li>Cuteberry Equestrian App (2020/2021, WebApp)</li>
+    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Fashion Lookbook (2022/2023, Flutter)</a></li>
+    <li><a href="https://apps.apple.com/us/app/cuteberry-reitsport-app/id1569893338">Cuteberry Equestrian App (2020/2021, WebApp)</a></li>
   </ul> 
 </div>
 
-<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="15"/>&nbsp;  Google Play Store: </div>
+<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp;  <b>Google Play Store: </b></div>
 <div>
    <ul>
-    <li>Fashion Lookbook (2022/2023, Flutter)</li>
-    <li>Cuteberry Equestrian App (2020/2021, WebApp)</li>
+    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Fashion Lookbook (2022/2023, Flutter)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.cuteberryde.myapp">Cuteberry Equestrian App (2020/2021, WebApp)</a></li>
   </ul> 
 </div>
 
