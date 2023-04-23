@@ -1,4 +1,4 @@
-![Lara Kreisz Header]([https://github.com/larakreisz/larakreisz/blob/main/20230423_154410_0000.png](https://raw.githubusercontent.com/larakreisz/larakreisz/main/20230423_155044_0000.png))
+![Lara Kreisz Header](https://github.com/larakreisz/larakreisz/blob/main/20230423_154410_0000.png)
 
 ### Hi there 👋
 
