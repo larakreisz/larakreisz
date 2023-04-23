@@ -20,30 +20,37 @@
     <li><a href="https://play.google.com/store/apps/details?id=com.cuteberryde.myapp">Cuteberry Equestrian App (2020/2021, WebApp)</a></li>
   </ul> 
 </div>
-<div><br><br></div>
+<div><br></div>
 
-### Actively maintained apps (work in progress)
+### Actively maintained apps
 
 <div>
    <ul>
-    <li>Fashion Lookbook (2022/2023, Flutter) <br>published Apple App Store & Google Play Store <br> private repository</li>
-    <li>Finding Peace (2023, Flutter, work in progress) <br> work in progress private repository<br></li>
+    <li><b>Fashion Lookbook (2022/2023, Flutter)</b> <br> private repository</li>
+    <li><b>Finding Peace (2023, Flutter, work in progress)</b> <br>private repository<br></li>
   </ul> 
 </div>
 
 If you are interested to view those repositories, please write an email to lara.kreisz@gmx.de
 
-<div><br><br></div>
+<div><br></div>
 
 ### Contribution
 + HKA-APP (2022, Windows Team)
++ Flask WebApp (2022)
 
-### Data Science
-+ HKA-APP (2022, Windows Team)
+<div><br></div>
 
-### Wordpress plugins
-+ HKA-APP (2022, Windows Team)
-+ 
+### Data Science projects
++ [Data Science university project (2022)](https://github.com/larakreisz/data_science_project_2022)
+
+<div><br></div>
+
+### My Wordpress plugins
++ [Custom Wordpress Shortcodes (2023)](https://github.com/larakreisz/wordpress_shortcode_auswahl_thesen)
++ [Wordpress Paddle Plugin (2022)](https://github.com/larakreisz/wordpress-paddle-plugin)
+
+<div><br></div>
 
 
 
