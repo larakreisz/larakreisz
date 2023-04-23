@@ -5,7 +5,7 @@
 
 ### See my apps on
 
-<div><img src="https://github.com/larakreisz/larakreisz/blob/mainApp_Store.png" width="auto" height="15"/>&nbsp; Apple App Store: </div>
+<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="15"/>&nbsp; Apple App Store: </div>
 <div>
    <ul>
     <li>Fashion Lookbook (2022/2023, Flutter)</li>
@@ -13,7 +13,7 @@
   </ul> 
 </div>
 
-<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_logo.png" width="auto" height="15"/>&nbsp;  Google Play Store: </div>
+<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="15"/>&nbsp;  Google Play Store: </div>
 <div>
    <ul>
     <li>Fashion Lookbook (2022/2023, Flutter)</li>
