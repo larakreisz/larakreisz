@@ -41,7 +41,7 @@ If you are interested to view those repositories, please write an email to lara.
 
 <div><br></div>
 
-### Data Science projects
+### My Data Science projects
 + [Data Science university project (2022)](https://github.com/larakreisz/data_science_project_2022)
 
 <div><br></div>
