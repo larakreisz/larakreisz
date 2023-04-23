@@ -4,14 +4,17 @@
 
 📱See my apps on
 
-+ 🍎 Apple App Store:
++ ![Lara Kreisz Header](https://github.com/larakreisz/larakreisz/blob/main/Android_logo.png) Apple App Store:
 
-+ 🤖 Google Play Store:
++ ![Lara Kreisz Header](https://github.com/larakreisz/larakreisz/blob/main/Android_logo.png) Google Play Store: 
 
 <!--
 **larakreisz/larakreisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+🤖
+🍎
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
