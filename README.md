@@ -20,10 +20,30 @@
     <li><a href="https://play.google.com/store/apps/details?id=com.cuteberryde.myapp">Cuteberry Equestrian App (2020/2021, WebApp)</a></li>
   </ul> 
 </div>
+<div><br><br></div>
 
+### Actively maintained apps (work in progress)
+
+<div>
+   <ul>
+    <li>Fashion Lookbook (2022/2023, Flutter) <br>published Apple App Store & Google Play Store <br> private repository</li>
+    <li>Finding Peace (2023, Flutter, work in progress) <br> work in progress private repository<br></li>
+  </ul> 
+</div>
+
+If you are interested to view those repositories, please write an email to lara.kreisz@gmx.de
+
+<div><br><br></div>
 
 ### Contribution
-HKA-APP
++ HKA-APP (2022, Windows Team)
+
+### Data Science
++ HKA-APP (2022, Windows Team)
+
+### Wordpress plugins
++ HKA-APP (2022, Windows Team)
++ 
 
 
 
