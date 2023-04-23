@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-### See my apps on
+### View my apps on
 
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="17"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
