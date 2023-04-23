@@ -1,12 +1,20 @@
-![Lara Kreisz Header](https://github.com/larakreisz/larakreisz/blob/main/20230423_154410_0000.png)
+![Lara Kreisz Header](https://github.com/larakreisz/larakreisz/blob/main/20230423_155044_0000.png)
+
+---
 
 ### Hi there 👋
 
 📱See my apps on
 
-+ ![Lara Kreisz Header](https://github.com/larakreisz/larakreisz/blob/main/Android_logo.png) Apple App Store:
+<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_logo.png" width="auto" height="5"/>&nbsp; Apple App Store: </div>
++ Fashion Lookbook (2022/2023, Flutter)
++ Cuteberry Equestrian App (2020/2021, WebApp)
 
-+ ![Lara Kreisz Header](https://github.com/larakreisz/larakreisz/blob/main/Android_logo.png) Google Play Store: 
+<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_logo.png" width="auto" height="5"/>&nbsp;  Google Play Store: </div>
++ Fashion Lookbook (2022/2023, Flutter)
++ Cuteberry Equestrian App (2020/2021, WebApp)
+
+
 
 <!--
 **larakreisz/larakreisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
