@@ -26,12 +26,22 @@
 
 <div>
    <ul>
+    <li><b>Fashion Lookbook (2022/2023, Flutter)</b> <br><a href="https://github.com/larakreisz/fashionbook">Take a look at this repository</a><br></li>
+    <li><b>Finding Peace (2023, Flutter, work in progress)</b> <br><a href="https://github.com/larakreisz/FindingPeace">Take a look at this repository</a><br></li>
+  </ul> 
+</div>
+
+<!-- // Make the below code active, if those repositories are private
+<div>
+   <ul>
     <li><b>Fashion Lookbook (2022/2023, Flutter)</b> <br> private repository</li>
     <li><b>Finding Peace (2023, Flutter, work in progress)</b> <br>private repository<br></li>
   </ul> 
 </div>
 
-If you are interested to view those repositories, please write an email to lara.kreisz@gmx.de
+If you are interested to view those repositories, please write an email to lara.kreisz@gmx.de 
+
+-->
 
 <div><br></div>
 
@@ -41,7 +51,7 @@ If you are interested to view those repositories, please write an email to lara.
 
 <div><br></div>
 
-### My Data Science projects
+### My Data Science project
 + [Data Science university project (2022)](https://github.com/larakreisz/data_science_project_2022)
 
 <div><br></div>
