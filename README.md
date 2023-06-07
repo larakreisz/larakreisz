@@ -26,9 +26,7 @@
 
 <div>
    <ul>
-    <li><b><a href="https://github.com/larakreisz/fashionbook">Fashion Lookbook (2022/2023, Flutter)</a></b> 
-        <br><b>Tech Stack & Other highlights:</b> Flutter, Firebase Authentication, Firebase NoSQL Database, Firebase Cloud Storage, Google Cloud Functions, Bloc State Management, Animated Splash Screen, Shimmer Loading Effect, In-App-Purchase, Report System for Objectionable Content and Abusive Users, Create-Read-Update-Delete
-       <br></li>
+    <li><b><a href="https://github.com/larakreisz/fashionbook">Fashion Lookbook (2022/2023, Flutter)</a></b> </li>
     <li><b><a href="https://github.com/larakreisz/FindingPeace">Finding Peace (2023, Flutter, work in progress)</a></b> <br></li>
   </ul> 
 </div>
