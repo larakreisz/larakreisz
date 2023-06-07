@@ -16,7 +16,7 @@
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp;  <b>Google Play Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Fashion Lookbook (2022/2023, Flutter)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook&gl=DE">Fashion Lookbook (2022/2023, Flutter)</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.cuteberryde.myapp">Cuteberry Equestrian App (2020/2021, WebApp)</a></li>
   </ul> 
 </div>
@@ -26,10 +26,10 @@
 
 <div>
    <ul>
-    <li><b>Fashion Lookbook (2022/2023, Flutter)</b> 
+    <li><b><a href="https://github.com/larakreisz/fashionbook">Fashion Lookbook (2022/2023, Flutter)</a></b> 
         <br><b>Tech Stack & Other highlights:</b> Flutter, Firebase Authentication, Firebase NoSQL Database, Firebase Cloud Storage, Google Cloud Functions, Bloc State Management, Animated Splash Screen, Shimmer Loading Effect, In-App-Purchase, Report System for Objectionable Content and Abusive Users, Create-Read-Update-Delete
-       <br><a href="https://github.com/larakreisz/fashionbook">Take a look at this repository</a><br></li>
-    <li><b>Finding Peace (2023, Flutter, work in progress)</b> <br><a href="https://github.com/larakreisz/FindingPeace">Take a look at this repository</a><br></li>
+       <br></li>
+    <li><b><a href="https://github.com/larakreisz/FindingPeace">Finding Peace (2023, Flutter, work in progress)</a></b> <br></li>
   </ul> 
 </div>
 
