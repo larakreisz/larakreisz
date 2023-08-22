@@ -8,8 +8,8 @@
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="17"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Fashion Lookbook (2022/2023, Flutter)</a></li>
-    <li>Finding Peace (2023, Flutter, Release Preparations, Product Owner: Jennifer Batcha)</li>
+    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs)</a></li>
+    <li>Finding Peace (2023, Flutter/Dart, Release Preparations, Product Owner: Jennifer Batcha)</li>
    <!-- <li><a href="https://apps.apple.com/us/app/cuteberry-reitsport-app/id1569893338">Cuteberry Equestrian App (2020/2021, WebApp)</a></li> -->
   </ul> 
 </div>
@@ -17,8 +17,8 @@
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp;  <b>Google Play Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Fashion Lookbook (2022/2023, Flutter)</a></li>
-   <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Finding Peace (2023, Flutter, Product Owner: Jennifer Batcha)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs)</a></li>
+   <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Finding Peace (2023, Flutter/Dart, Product Owner: Jennifer Batcha)</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.cuteberryde.myapp">Cuteberry Equestrian App (2020/2021, WebApp)</a></li>
   </ul> 
 </div>
@@ -28,8 +28,8 @@
 
 <div>
    <ul>
-    <li><b><a href="https://github.com/larakreisz/fashionbook">Fashion Lookbook (2022/2023, Flutter)</a></b><br>(public repository)</li>
-    <li><b><a href="https://github.com/larakreisz/FindingPeace">Finding Peace (2023, Flutter)</a></b><br>(public repository)<br></li>
+    <li><b><a href="https://github.com/larakreisz/fashionbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs)</a></b><br>(public repository)</li>
+    <li><b><a href="https://github.com/larakreisz/FindingPeace">Finding Peace (2023, Flutter/Dart)</a></b><br>(public repository)<br></li>
   </ul> 
 </div>
 
@@ -38,8 +38,8 @@ If you would like to contribute to these projects, kindly send an email to lara.
 <!-- // Make the below code active, if those repositories are private
 <div>
    <ul>
-    <li><b>Fashion Lookbook (2022/2023, Flutter)</b> <br> private repository</li>
-    <li><b>Finding Peace (2023, Flutter)</b> <br>private repository<br></li>
+    <li><b>Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs)</b> <br> private repository</li>
+    <li><b>Finding Peace (2023, Flutter/Dart)</b> <br>private repository<br></li>
   </ul> 
 </div>
 
