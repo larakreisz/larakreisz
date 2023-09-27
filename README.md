@@ -50,7 +50,7 @@ If you are interested to view those repositories, please write an email to lara.
 <div><br></div>
 
 ### Contribution
-+ HKA-APP (2022, Windows Team)
++ <a href="https://apps.microsoft.com/store/detail/hkaapp/9WZDNCRDCPB3">HKA-APP (2022, Windows Team)</a>  
 + Flask WebApp (2022)
 
 <div><br></div>
