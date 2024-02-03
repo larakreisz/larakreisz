@@ -33,7 +33,7 @@
   </ul> 
 </div>
 
-If you would like to contribute to these projects, kindly send an email to lara.kreisz@gmx.de.
+Any questions? Send an email to lara.kreisz@gmx.de.
 
 <!-- // Make the below code active, if those repositories are private
 <div>
