@@ -17,7 +17,7 @@
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp;  <b>Google Play Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/Serverless Google Cloud Functions written in NodeJs/Isar Local Database/In-App-Purchase/AdMob)</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Finding Peace (2023, Flutter/Dart, Product Owner: Jennifer Batcha)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
@@ -28,7 +28,7 @@
 
 <div>
    <ul>
-    <li><b><a href="https://github.com/larakreisz/fashionbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs)</a></b><br>(private repository)</li>
+    <li><b><a href="https://github.com/larakreisz/fashionbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/Serverless Google Cloud Functions written in NodeJs/Isar Local Database/In-App-Purchase/AdMob)</a></b><br>(private repository)</li>
     <li><b><a href="https://github.com/larakreisz/FindingPeace">Finding Peace (2023, Flutter/Dart)</a></b><br>(public repository)<br></li>
   </ul> 
 </div>
