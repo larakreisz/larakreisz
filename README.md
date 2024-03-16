@@ -28,7 +28,7 @@
 
 <div>
    <ul>
-    <li><b><a href="https://github.com/larakreisz/fashionbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></b><br>(private repository)</li>
+    <li><b><a href="https://github.com/larakreisz/fashionbook_2.0">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></b><br>(private repository)</li>
     <li><b><a href="https://github.com/larakreisz/FindingPeace">Finding Peace (2023, Flutter/Dart)</a></b><br>(private repository)<br></li>
   </ul> 
 </div>
