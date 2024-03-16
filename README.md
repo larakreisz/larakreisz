@@ -9,7 +9,7 @@
 <div>
    <ul>
     <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></li>
-    <li>Finding Peace (2023, Flutter/Dart, Release Preparations, Product Owner: Jennifer Batcha)</li>
+    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Finding Peace (2023, Flutter/Dart. Collaboration with Jennifer Batcha)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
@@ -18,7 +18,7 @@
 <div>
    <ul>
     <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Finding Peace (2023, Flutter/Dart, Product Owner: Jennifer Batcha)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Finding Peace (2023, Flutter/Dart. Collaboration with Jennifer Batcha)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
