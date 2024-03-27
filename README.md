@@ -2,7 +2,7 @@
 ---------
 
 ### Hi there 👋
-Excited to announce that the app "Learn Salah Prayer", which I had the privilege to develop alongside Jennifer Batcha, who supervised content creation, has reached a significant milestone! Since its launch in June/July 2023, the app has achieved an incredible 14 000+ downloads on Google Play Store and approximately 5000 downloads on the Apple App Store, where it was launched a couple of months later. 
+Excited to announce that the app "Learn Salah Prayer", which I had the privilege to develop alongside Jennifer Batcha, who supervised content creation, has reached a significant milestone! Since its launch in June/July 2023, the app has achieved an incredible 15 000+ downloads on Google Play Store and approximately 5000 downloads on the Apple App Store, where it was launched a couple of months later. 
 
 
 ### View my apps on
@@ -10,8 +10,8 @@ Excited to announce that the app "Learn Salah Prayer", which I had the privilege
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="17"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar. Collaboration with Tanzeel Rehman and Emanuel Sanga)</a></li>
-    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Finding Peace (2023, Flutter/Dart. Collaboration with Jennifer Batcha)</a></li>
+    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Outfit of the Day (OOTD) (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar. Collaboration with Tanzeel Rehman and Emanuel Sanga)</a></li>
+    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Learn Salah Prayer (2023, Flutter/Dart. Collaboration with Jennifer Batcha)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
@@ -19,8 +19,8 @@ Excited to announce that the app "Learn Salah Prayer", which I had the privilege
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp;  <b>Google Play Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar. Collaboration with Tanzeel Rehman and Emanuel Sanga)</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Finding Peace (2023, Flutter/Dart. Collaboration with Jennifer Batcha)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Outfit of the Day (OOTD) (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar. Collaboration with Tanzeel Rehman and Emanuel Sanga)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Learn Salah Prayer (2023, Flutter/Dart. Collaboration with Jennifer Batcha)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
@@ -30,8 +30,8 @@ Excited to announce that the app "Learn Salah Prayer", which I had the privilege
 
 <div>
    <ul>
-    <li><b><a href="https://github.com/larakreisz/fashionbook_2.0">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></b><br>(private repository)</li>
-    <li><b><a href="https://github.com/larakreisz/FindingPeace">Finding Peace (2023, Flutter/Dart)</a></b><br>(private repository)<br></li>
+    <li><b><a href="https://github.com/larakreisz/ootd_2.0">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></b><br>(private repository)</li>
+    <li><b><a href="https://github.com/larakreisz/salah">Finding Peace (2023, Flutter/Dart)</a></b><br>(private repository)<br></li>
   </ul> 
 </div>
 
