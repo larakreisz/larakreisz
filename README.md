@@ -30,8 +30,8 @@ Excited to announce that the app "Learn Salah Prayer", which I had the privilege
 
 <div>
    <ul>
-    <li><b><a href="https://github.com/larakreisz/ootd_2.0">Fashion Lookbook (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></b><br>(private repository)</li>
-    <li><b><a href="https://github.com/larakreisz/salah">Finding Peace (2023, Flutter/Dart)</a></b><br>(private repository)<br></li>
+    <li><b><a href="https://github.com/larakreisz/ootd_2.0">Outfit of the Day (OOTD) (2022/2023, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></b><br>(private repository)</li>
+    <li><b><a href="https://github.com/larakreisz/salah">Learn Salah Prayer (2023, Flutter/Dart)</a></b><br>(private repository)<br></li>
   </ul> 
 </div>
 
