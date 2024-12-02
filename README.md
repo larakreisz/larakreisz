@@ -2,7 +2,7 @@
 ---------
 
 ### Hi there 👋
-Excited to announce that the app "Salah | For Kids & New Muslims", which I had the privilege to develop alongside Jennifer Batcha, who supervised content creation, has reached a significant milestone! Since its launch in June/July 2023, the app has achieved an incredible 15 000+ downloads on Google Play Store and approximately 5000 downloads on the Apple App Store, where it was launched a couple of months later. 
+Excited to announce that the app **Salah | For Kids & New Muslims**, which I had the privilege to develop alongside Jennifer Batcha, who supervised content creation, has reached a significant milestone! Since its launch in June/July 2023, the app has achieved an incredible 15 000+ downloads on Google Play Store and approximately 5000 downloads on the Apple App Store, where it was launched a couple of months later. 
 
 
 ### View my apps on
