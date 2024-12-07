@@ -34,6 +34,7 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
     <li><a href="https://www.wirtgen-group.com/de-de/produkte/kleemann/technologien/spective-connect/">Spective Connect (2024, Bi-directionale Kommunikation & Bandwaagen-Kalibrierung. Als Mitarbeiter der Let's dev GmbH & Co. KG)</a></li>
   </ul> 
 </div>
+<div><br></div>
 
 ### Actively maintained apps
 
