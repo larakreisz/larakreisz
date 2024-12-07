@@ -26,6 +26,15 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 </div>
 <div><br></div>
 
+### Other apps, I have worked on
+
+<div>
+   <ul>
+    <li><a href="https://www.rainmesh.de">Rain Mesh (2023/2024, Entwicklung App Architektur und Umsetzung der App. Entwickelt als Mitarbeiter der Let's dev GmbH & Co. KG)</a></li>
+    <li><a href="https://www.wirtgen-group.com/de-de/produkte/kleemann/technologien/spective-connect/">Spective Connect (2024, Bi-directionale Kommunikation & Bandwaagen-Kalibrierung über MQTT. Als Mitarbeiter der Let's dev GmbH & Co. KG)</a></li>
+  </ul> 
+</div>
+
 ### Actively maintained apps
 
 <div>
