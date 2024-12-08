@@ -30,8 +30,8 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 
 <div>
    <ul>
-    <li><a href="https://www.rainmesh.de">Rain Mesh (2023/2024, Responsible for app architecture design and development. Role: Software Developer at Let's dev GmbH & Co. KG)</a></li> 
-    <li><a href="https://www.wirtgen-group.com/de-de/produkte/kleemann/technologien/spective-connect/">Spective Connect (2024, Contributed to the development of Spective Connect, including aspects of bidirectional communication and belt scale calibration. Role: Software Developer at Let's dev GmbH & Co. KG.)</a></li>
+    <li><a href="https://www.rainmesh.de">Rain Mesh (2023/2024, Responsible for app architecture and app development. Role: Mobile App Developer at Let's dev GmbH & Co. KG)</a></li> 
+    <li><a href="https://www.wirtgen-group.com/de-de/produkte/kleemann/technologien/spective-connect/">Spective Connect (2024, Contributed to the development of Spective Connect, including aspects of bidirectional communication and belt scale calibration. Role: Mobile App Developer at Let's dev GmbH & Co. KG.)</a></li>
   </ul> 
 </div>
 <div><br></div>
