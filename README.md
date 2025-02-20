@@ -11,7 +11,7 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 <div>
    <ul>
     <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Wardrobe | Outfit Planner (2022-2025, Flutter/Dart/Bloc/Firebase/NodeJs/Isar. Collaboration with Tanzeel Rehman and Emanuel Sanga)</a></li>
-    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart. Collaboration with Jennifer Batcha)</a></li>
+    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart. Collaboration with Jennifer Batcha and Tanzeel Rehman)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
@@ -20,7 +20,7 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 <div>
    <ul>
     <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Wardrobe | Outfit Planner (2022-2025, Flutter/Dart/Bloc/Firebase/NodeJs/Isar. Collaboration with Tanzeel Rehman and Emanuel Sanga)</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart. Collaboration with Jennifer Batcha)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart. Collaboration with Jennifer Batcha and Tanzeel Rehman)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
