@@ -26,7 +26,7 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 </div>
 <div><br></div>
 
-<-- ### Other apps, I have worked on
+<!-- ### Other apps, I have worked on
 
 <div>
    <ul>
