@@ -26,7 +26,7 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 </div>
 <div><br></div>
 
-/*### Other apps, I have worked on
+<-- ### Other apps, I have worked on
 
 <div>
    <ul>
@@ -34,7 +34,7 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
     <li><a href="https://www.wirtgen-group.com/de-de/produkte/kleemann/technologien/spective-connect/">Spective Connect (2024, Contributed to the development of Spective Connect, including aspects of bidirectional communication and belt scale calibration. Role: Mobile App Developer at Let's dev GmbH & Co. KG.)</a></li>
   </ul> 
 </div>
-<div><br></div>*/
+<div><br></div> -->
 
 ### Actively maintained apps
 
