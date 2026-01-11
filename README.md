@@ -45,6 +45,9 @@ Excited to announce that the app **Salah | For Kids & New Muslims** has reached 
   </ul> 
 </div>
 
+
+<div><br></div>
+
 ### Actively maintained packages
 
 <div>
@@ -56,6 +59,14 @@ Excited to announce that the app **Salah | For Kids & New Muslims** has reached 
      </ul>
   </ul> 
 </div>
+
+
+<div><br></div>
+
+Most days, I’m heads-down shipping apps at <a href="https://letsdev.de">Let’s Dev GmbH & Co. KG</a>
+
+<div><br></div>
+
 
 Any questions? Send an email to lara.kreisz@gmx.de.
 
@@ -71,9 +82,10 @@ If you are interested to view those repositories, please write an email to lara.
 
 -->
 
+
 <div><br></div>
 
-### Contribution
+<!-- ### Contribution
 + <a href="https://apps.microsoft.com/store/detail/hkaapp/9WZDNCRDCPB3">HKA-APP (2022, Windows Team)</a>  
 + Flask WebApp (2022)
 
@@ -88,7 +100,7 @@ If you are interested to view those repositories, please write an email to lara.
 + [Custom Wordpress Shortcodes (2023)](https://github.com/larakreisz/wordpress_shortcode_auswahl_thesen)
 + [Wordpress Paddle Plugin (2022)](https://github.com/larakreisz/wordpress-paddle-plugin)
 
-<div><br></div>
+<div><br></div> -->
 
 
 
