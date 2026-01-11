@@ -55,7 +55,7 @@ One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,00
 
 <div>
    <ul>
-      <li><b><a href="https://github.com/larakreisz/camera_picker">Camera Picker — THE 7 DAY GLOW UP (2026)</a></b><br>(private repository)</li>
+      <li><b><a href="https://github.com/larakreisz/camera_picker">Camera Picker — THE 7 DAY GLOW UP (2026)</a></b>(private repository)</li>
       <ul>
        <li>Built a guided camera experience for shooting <strong>Outfit of the Day (OOTD)</strong> content, including intelligent posing suggestions</li>
       <li>Implemented a face-capture workflow to support <strong>color analysis</strong> and <strong>contrast-level detection</strong></li>
