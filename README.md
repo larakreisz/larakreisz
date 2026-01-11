@@ -8,7 +8,7 @@ One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,00
 
 <div><br></div>
 
-### View my Apps on
+### Independent Apps
 
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="17"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
