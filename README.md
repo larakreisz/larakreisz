@@ -39,7 +39,7 @@ One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,00
 </div>
 <div><br></div> -->
 
-### Actively maintained apps
+<!-- ### Actively maintained apps
 
 <div>
    <ul>
@@ -49,9 +49,9 @@ One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,00
 </div>
 
 
-<div><br></div>
+<div><br></div> -->
 
-### Actively maintained packages
+### Actively maintained flutter packages
 
 <div>
    <ul>
@@ -68,7 +68,7 @@ One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,00
 
 ### Current Position
 
-Most days, I’m heads-down shipping apps at <b><a href="https://letsdev.de">Let’s Dev GmbH & Co. KG</a></b>, contributing to production systems used in real-world environments.
+Most days, I’m heads-down shipping apps at <b><a href="https://letsdev.de">Let’s Dev GmbH & Co. KG</a></b>, contributing to production systems used by enterprise clients in real-world environments.
 
 <div><br></div> <div><br></div>
 
