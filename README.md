@@ -6,7 +6,9 @@ I’m a software developer focused on building and maintaining production-grade 
 
 One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,000+ users across iOS and Android since its launch in mid-2023. I design, ship, and maintain long-running products with real users, real feedback, and real operational responsibility.
 
-### Apps in production
+<div><br></div>
+
+### View my Apps on
 
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="17"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
@@ -64,7 +66,7 @@ One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,00
 
 <div><br></div>
 
-### Current Position (Day Job)
+### Current Position
 
 Most days, I’m heads-down shipping apps at <b><a href="https://letsdev.de">Let’s Dev GmbH & Co. KG</a></b>, contributing to production systems used in real-world environments.
 
@@ -72,6 +74,7 @@ Most days, I’m heads-down shipping apps at <b><a href="https://letsdev.de">Let
 
 
 Any questions? 
+
 lara.kreisz@gmx.de.
 
 <!-- // Make the below code active, if those repositories are private
