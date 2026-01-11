@@ -13,8 +13,8 @@ One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,00
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="17"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
    <ul>
+      <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Salah | For Kids & New Muslims (2023-2026, Flutter/Dart/Bloc)</a></li>
     <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></li>
-    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Salah | For Kids & New Muslims (2023-2026, Flutter/Dart/Bloc)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
@@ -22,8 +22,8 @@ One of my apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 20,00
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp;  <b>Google Play Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></li>
     <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart/Bloc)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
