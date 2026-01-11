@@ -2,7 +2,7 @@
 ---------
 
 ### Hi there 👋
-Excited to announce that the app **Salah | For Kids & New Muslims**, which I had the privilege to develop alongside Jennifer Batcha, who supervised content creation, and Tanzeel Rehman, who helped with translation to Urdu and fixing some bugs, has reached a significant milestone! Since its launch in June/July 2023, the app has achieved an incredible 15 000+ downloads on Google Play Store and approximately 5000 downloads on the Apple App Store, where it was launched a couple of months later. 
+Excited to announce that the app **Salah | For Kids & New Muslims** has reached a significant milestone! Since its launch in June/July 2023, the app has achieved an incredible 15 500+ downloads on Google Play Store and approximately 5400 downloads on the Apple App Store, where it was launched a couple of months later. 
 
 
 ### View my apps on
@@ -10,8 +10,8 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="17"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">Wardrobe | Outfit Planner (2022-2025, Flutter/Dart/Bloc/Firebase/NodeJs/Isar. Collaboration with Tanzeel Rehman (Flutter Developer), Emanuel Sanga (Flutter Developer, React Native Developer), and Asad Akbar (UX Designer))</a></li>
-    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart/Bloc. Collaboration with Jennifer Batcha (Content Supervisor), Tanzeel Rehmann (Flutter Developer), and Asad Akbar (UX Designer))</a></li>
+    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></li>
+    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Salah | For Kids & New Muslims (2023-2026, Flutter/Dart/Bloc)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
@@ -19,8 +19,8 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 <div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp;  <b>Google Play Store: </b></div>
 <div>
    <ul>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">Wardrobe | Outfit Planner (2022-2025, Flutter/Dart/Bloc/Firebase/NodeJs/Isar. Collaboration with Tanzeel Rehman (Flutter Developer), Emanuel Sanga (Flutter Developer, React Native Developer), and Asad Akbar (UX Designer))</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart/Bloc. Collaboration with Jennifer Batcha (Content Supervisor), Tanzeel Rehmann (Flutter Developer), and Asad Akbar (UX Designer))</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart/Bloc)</a></li>
     <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
   </ul> 
 </div>
@@ -40,8 +40,20 @@ Excited to announce that the app **Salah | For Kids & New Muslims**, which I had
 
 <div>
    <ul>
-    <li><b><a href="https://github.com/larakreisz/ootd_2.0">Wardrobe | Outfit Planner (2022-2025, Flutter/Dart/Bloc/Firebase/NodeJs/Isar)</a></b><br>(private repository)</li>
-    <li><b><a href="https://github.com/larakreisz/salah">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart)</a></b><br>(private repository)<br></li>
+    <li><b><a href="https://github.com/larakreisz/wardrobe_4.0">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></b><br>(private repository)</li>
+    <li><b><a href="https://github.com/larakreisz/salah_2.0">Salah | For Kids & New Muslims (2023-2026, Flutter/Dart)</a></b><br>(private repository)<br></li>
+  </ul> 
+</div>
+
+### Actively maintained packages
+
+<div>
+   <ul>
+      <li><b><a href="https://github.com/larakreisz/camera_picker">Camera Picker — THE 7 DAY GLOW UP (2026)</a></b><br>(private repository)</li>
+      <ul>
+       <li>Built a guided camera experience for shooting <strong>Outfit of the Day (OOTD)</strong> content, including intelligent posing suggestions</li>
+      <li>Implemented a face-capture workflow to support <strong>color analysis</strong> and <strong>contrast-level detection</strong></li>
+     </ul>
   </ul> 
 </div>
 
