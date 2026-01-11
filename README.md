@@ -2,28 +2,36 @@
 ---------
 
 ### Hi there 👋
-Excited to announce that the app **Salah | For Kids & New Muslims** has reached a significant milestone! Since its launch in June/July 2023, the app has achieved an incredible 15 500+ downloads on Google Play Store and approximately 5400 downloads on the Apple App Store, where it was launched a couple of months later. 
-
-
-### View my apps on
-
-<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" width="auto" height="17"/>&nbsp; <b>Apple App Store: </b></div>
 <div>
-   <ul>
-    <li><a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></li>
-    <li><a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959">Salah | For Kids & New Muslims (2023-2026, Flutter/Dart/Bloc)</a></li>
-    <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
-  </ul> 
+   I’m a software developer focused on building and maintaining production-grade mobile apps — both independently and as part of a team. </b></b>
+   One of my apps, **Salah | For Kids & New Muslims**, has been adopted by *20,000+ users across iOS and Android* since its launch in mid-2023. I design, ship, and maintain long-running products with real users, real feedback, and real operational responsibility.
 </div>
 
-<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" width="auto" height="20"/>&nbsp;  <b>Google Play Store: </b></div>
+Since launching in mid-2023, **Salah | For Kids & New Muslims** has been adopted by 20,000+ users across iOS and Android.
+
+
+### Apps in production
+
 <div>
-   <ul>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace">Salah | For Kids & New Muslims (2023-2025, Flutter/Dart/Bloc)</a></li>
-    <li>Cuteberry Equestrian App (2020-2022, Flutter/Dart)</li>
-  </ul> 
+   <img src="https://github.com/larakreisz/larakreisz/blob/main/Apple_symbol.png" height="17"/>&nbsp; <b>Apple App Store</b>
+</div> 
+<div> 
+   <ul> 
+      <li> <a href="https://apps.apple.com/de/app/fashion-lookbook/id6444239032"> THE 7 DAY GLOW UP (2022–2026) </a><br/> <small>Flutter · Dart · Bloc · Firebase · Node.js · Isar · Google ML Kit</small> </li> 
+      <li> <a href="https://apps.apple.com/us/app/learn-salah-prayer/id1668012959"> Salah | For Kids & New Muslims (2023–2026) </a><br/> <small>Flutter · Dart · Bloc</small> </li> 
+      <li> Cuteberry Equestrian App (2020–2022)<br/> <small>Flutter · Dart</small> </li> 
+   </ul> 
 </div>
+
+<div><img src="https://github.com/larakreisz/larakreisz/blob/main/Android_symbol.png" height="20"/>&nbsp; <b>Google Play Store</b></div> 
+<div> 
+   <ul> 
+      <li> <a href="https://play.google.com/store/apps/details?id=com.larakreisz.fashionlookbook"> THE 7 DAY GLOW UP (2022–2026) </a> </li> 
+      <li> <a href="https://play.google.com/store/apps/details?id=com.larakreisz.findingpeace"> Salah | For Kids & New Muslims (2023–2025) </a> </li> 
+      <li> Cuteberry Equestrian App (2020–2022) </li> 
+   </ul> 
+</div>
+
 <div><br></div>
 
 <!-- ### Other apps, I have worked on
@@ -36,12 +44,12 @@ Excited to announce that the app **Salah | For Kids & New Muslims** has reached 
 </div>
 <div><br></div> -->
 
-### Actively maintained apps
+### Actively maintained products
 
 <div>
    <ul>
-    <li><b><a href="https://github.com/larakreisz/wardrobe_4.0">THE 7 DAY GLOW UP (2022-2026, Flutter/Dart/Bloc/Firebase/NodeJs/Isar/Google ML Kit)</a></b><br>(private repository)</li>
-    <li><b><a href="https://github.com/larakreisz/salah_2.0">Salah | For Kids & New Muslims (2023-2026, Flutter/Dart)</a></b><br>(private repository)<br></li>
+    <li><b><a href="https://github.com/larakreisz/wardrobe_4.0"><b> <a href="https://github.com/larakreisz/wardrobe_4.0"> THE 7 DAY GLOW UP </a> </b><br/> <small>Private repository · Active since 2022</small></li>
+    <li><b> <a href="https://github.com/larakreisz/salah_2.0"> Salah | For Kids & New Muslims </a> </b><br/> <small>Private repository · Active since 2023</small></li>
   </ul> 
 </div>
 
@@ -50,25 +58,28 @@ Excited to announce that the app **Salah | For Kids & New Muslims** has reached 
 
 ### Actively maintained packages
 
-<div>
-   <ul>
-      <li><b><a href="https://github.com/larakreisz/camera_picker">Camera Picker — THE 7 DAY GLOW UP (2026)</a></b><br>(private repository)</li>
-      <ul>
-       <li>Built a guided camera experience for shooting <strong>Outfit of the Day (OOTD)</strong> content, including intelligent posing suggestions</li>
-      <li>Implemented a face-capture workflow to support <strong>color analysis</strong> and <strong>contrast-level detection</strong></li>
-     </ul>
-  </ul> 
+<div> 
+   <ul> 
+      <li> <b> <a href="https://github.com/larakreisz/camera_picker"> Camera Picker — THE 7 DAY GLOW UP </a> </b><br/> <small>Private repository</small> 
+         <ul> 
+            <li> Guided camera workflows for OOTD content, including intelligent posing suggestions </li> <li> Face-capture pipelines supporting color analysis and contrast-level detection </li>
+         </ul> 
+      </li> 
+   </ul> 
 </div>
 
 
 <div><br></div>
 
-Most days, I’m heads-down shipping apps at <a href="https://letsdev.de">Let’s Dev GmbH & Co. KG</a>
+### Current position
+
+Most days, I’m heads-down shipping apps at <b><a href="https://letsdev.de">Let’s Dev GmbH & Co. KG</a></b>, contributing to production systems used in real-world environments.
 
 <div><br></div>
 
 
-Any questions? Send an email to lara.kreisz@gmx.de.
+Any questions? 
+📩 lara.kreisz@gmx.de
 
 <!-- // Make the below code active, if those repositories are private
 <div>
