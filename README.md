@@ -6,7 +6,7 @@ Excited to announce that the app <b>Salah | For Kids & New Muslims</b> has reach
 
 Since launching in mid-2023, **Salah | For Kids & New Muslims** has been adopted by 20,000+ users across iOS and Android.
 
----
+---------
 
 ### View my apps on
 
