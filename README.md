@@ -4,7 +4,7 @@
 ### Hi there 👋
 I’m a mobile app developer focused on building and maintaining production-grade mobile apps — both independently and as part of a team.
 
-One of my independent apps, <b>Salah | For Kids & New Muslims</b>, has been adopted by 26488 users (20 May 2026) across iOS and Android since its launch in mid-2023. I design, ship, and maintain long-running products with real users, real feedback, and real operational responsibility.
+One of my independent apps, <b>Salah | For Kids, Teens & Adults</b>, has been adopted by 26488 users across iOS and Android as of 20 May 2026. I design, ship, and maintain long-running products with real users, real feedback, and real operational responsibility.
 
 <div><br></div>
 
