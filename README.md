@@ -2,7 +2,8 @@
 ---------
 
 ### Hi there 👋
-I’m a mobile app developer focused on building and maintaining production-grade mobile apps — both independently and as part of a team.
+
+I love building products and creating exceptional user experiences. I specialize in iOS development and cross-platform app development with Flutter/Dart, delivering production-grade applications with a strong focus on performance, stability, and long-term maintainability. I’m a fast learner who enjoys tackling complex problems. I have a keen eye for detail, as well as a strong sense for UI and UX design.
 
 One of my independent apps, <b>Salah | For Kids, Teens & Adults</b>, has been adopted by 26488 users across iOS and Android as of 20 May 2026. I design, ship, and maintain long-running products with real users, real feedback, and real operational responsibility.
 
@@ -70,7 +71,7 @@ One of my independent apps, <b>Salah | For Kids, Teens & Adults</b>, has been ad
 
 ### Current Position
 
-Most days, I’m heads-down shipping apps at <b><a href="https://letsdev.de">Let’s Dev GmbH & Co. KG</a></b>, contributing to production systems used by enterprise clients in real-world environments.
+Most days, I’m heads-down shipping apps at <b><a href="https://letsdev.de">Let’s Dev GmbH & Co. KG</a></b> as an iOS Developer, contributing to production systems used by enterprise clients in real-world environments.
 
 <div><br></div> <div><br></div>
 
